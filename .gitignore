@@ -1,0 +1,12 @@
+# Donnees brutes ICIJ Offshore Leaks (~600 Mo) : a telecharger sur
+# https://offshoreleaks.icij.org/pages/database
+nodes-*.csv
+relationships.csv
+
+# Sorties regenerables par les notebooks
+*.gexf
+analyse_centralite_louvain.csv
+
+# Divers
+*.dmg
+.DS_Store
